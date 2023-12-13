@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Eu sou o Abimael Santos, técnico em análise e desenvolvimento de sistemas e trabalho na área de tecnologia da informação há mais de nove anos!
+### Olá, eu sou o Abimael Santos! Técnico em análise e desenvolvimento de sistemas e atuo na área de tecnologia da informação há mais de nove anos!
 
 
 <div style="display: inline_block"><br>
