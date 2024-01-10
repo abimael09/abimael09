@@ -1,4 +1,4 @@
-### Olá, eu sou o Abimael Santos! Formação com ênfase em Programação e especialista em Suporte Técnico ao usuário final, atuo na área de Tecnologia da Informação já faz alguns anos.
+### Olá, eu sou o Abimael Santos! Formação com ênfase em Programação e especialista em Suporte Técnico ao usuário final, atuo na área de Tecnologia da Informação há mais de 08 anos.
 
 
 <div style="display: inline_block"><br>
