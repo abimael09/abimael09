@@ -1,7 +1,7 @@
 ### Olá, eu sou o Abimael Santos! Tenho formação com ênfase em Programação e especialidade no Suporte Técnico ao usuário final, atuando na área de Tecnologia da Informação. 
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
